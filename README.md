@@ -58,4 +58,6 @@ This repository contains the following folders:
 - Dataset
 - Notebooks
 - SQL: queries_linear_regression.sql 
-- Tableau: Business analysis.pdf
+- Tableau:
+   - Dashboard and Stories [here](https://public.tableau.com/profile/claudia1368#!/vizhome/Mid_Bootcamp_Project/3_pricevssurface?publish=yes)
+   - Business analysis.pdf
