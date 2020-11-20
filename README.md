@@ -55,12 +55,7 @@ This conclusions are supported by the data analysis in Tableau.
 ## Content of the repository
 This repository contains the following folders:
 
-- Dataset:
-   - (Starting Dataset)
-   - 1st Iteration
-   - 2nd Iteration 
-- Notebooks:
-- SQL:
-  - queries_linear_regression.sql 
-- Tableau:
-  - Business analysis.pdf
+- Dataset
+- Notebooks
+- SQL: queries_linear_regression.sql 
+- Tableau: Business analysis.pdf
